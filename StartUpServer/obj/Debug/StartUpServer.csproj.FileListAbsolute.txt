@@ -1,0 +1,14 @@
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.exe.config
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.exe
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.pdb
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.csprojAssemblyReference.cache
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.exe
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.pdb
+C:\Users\Flexo\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\bin\Debug\StartUpServer.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.exe
+C:\Users\Administrador\Documents\Visual Studio 2019\StartUpServer\StartUpServer\obj\Debug\StartUpServer.pdb
